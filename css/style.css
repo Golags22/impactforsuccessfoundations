@@ -14737,6 +14737,12 @@ button {
     font-family: 'Times New Roman', Times, serif;
     padding: 2px;
     font-size: 20px;
+    margin-top: 8px;
+}
+
+.textt h3,
+h4 {
+    text-align: center;
 }
 
 .mrs {
