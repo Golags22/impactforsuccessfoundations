@@ -14760,3 +14760,12 @@ h4 {
 .mrs p {
     display: inline-block;
 }
+
+@media screen and (max-width:1000px) {
+    .textt {
+        font-family: 'Times New Roman', Times, serif;
+        padding: 2px;
+        font-size: 10px;
+        margin: 5px;
+    }
+}
