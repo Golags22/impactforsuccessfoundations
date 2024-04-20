@@ -14678,12 +14678,12 @@ button {
     left: 50%;
     transform: translate(-50%, -50%);
     color: #fff;
-    padding: 20px;
-    font-size: 36px;
+    padding: 100px;
+    font-size: 45px;
     background-color: black;
     border-radius: 8px;
     animation: popOut 0.5s ease forwards;
-    padding: 70px;
+    width: 100%;
 }
 
 #winnerImage {
@@ -14729,7 +14729,7 @@ button {
 
 .textt {
     font-family: 'Times New Roman', Times, serif;
-    padding: 2px;
+    padding: 10px;
     font-size: 20px;
     margin: 5px;
 }
