@@ -14680,6 +14680,7 @@ button {
     color: #fff;
     padding: 20px;
     font-size: 36px;
+    background-color: black;
     border-radius: 8px;
     animation: popOut 0.5s ease forwards;
     padding: 70px;
